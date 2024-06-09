@@ -1,6 +1,6 @@
 # Portfolio project
 
-LIVE DEMO :- https://dnyaneshwarsakhare.github.io/Portfolio
+
 
 NOTE:- You may not be seen Javascript files differently because I have added jQuery and javascript in index.html file itself.
 
